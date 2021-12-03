@@ -16,9 +16,7 @@
 <!-- 
 **About section-->
 ## About Me
-#### Hello 👋🏾 This is what I look like
-<img src="Bruno.JPG" width="400" height="auto" />
-
+#### Hello 👋🏾 There
 
 My name is <b>Samson Bruno Were.</b>
 I am a passionate human being, driven by purpose in all I do. 
